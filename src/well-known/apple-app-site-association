@@ -1,0 +1,10 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "RPKZ2YP3VZ.app.nyxo.vercelly",
+            "paths": ["/redirect", "/redirect/"]
+            }
+        ]
+    }
+}
