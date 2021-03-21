@@ -75,7 +75,7 @@ const IndexPage: FC = () => {
 
   return (
     <Layout>
-      <SEO title="The Mobile App for Netlify" />
+      <SEO title="The Mobile App for Vercel" />
 
       <Grid>
         {/* Row 1 */}
@@ -83,7 +83,7 @@ const IndexPage: FC = () => {
         <Cell span={4}>
           <Container>
             <ProductName>{productName}</ProductName>
-            <Title>Manage your Netlify sites on the go.</Title>
+            <Title>Manage your Vercel Projects on the go.</Title>
           </Container>
           <AbsolutePositionedImage>
             <Image image={start?.childImageSharp?.fluid} />
@@ -120,20 +120,6 @@ const IndexPage: FC = () => {
                 </ButtonText>
               </ButtonContent>
             </Button>
-
-            <a
-              href="https://www.producthunt.com/posts/netli-fyi?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-netli-fyi"
-              target="_blank"
-              style={{ marginTop: 16 }}
-            >
-              <img
-                src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=284304&theme=light"
-                alt="Vercelly - Monitor Your Netlify Sites & Deployments | Product Hunt"
-                style={{ width: 250, height: 54 }}
-                width="250"
-                height="54"
-              />
-            </a>
           </DownloadContainer>
         </Cell>
 
@@ -159,7 +145,7 @@ const IndexPage: FC = () => {
             </ImageBG>
 
             <h3>View Form Submissions</h3>
-            <P>Manage both Netlify forms and submissions with ease.</P>
+            <P>Manage both Vercel forms and submissions with ease.</P>
           </Feature>
         </Cell>
         <Cell span={2}>
@@ -198,7 +184,7 @@ const IndexPage: FC = () => {
               Multiple accounts
             </h3>
             <P>
-              Maybe you have two Netlify accounts and maybe you don't want to
+              Maybe you have two Vercel accounts and maybe you don't want to
               logout to use the other one all the time. With the upcoming
               multiple accounts feature you no longer have to do that.
             </P>

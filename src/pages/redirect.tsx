@@ -14,7 +14,7 @@ const Redirect: FC<PageProps> = ({ location }) => {
 
   return (
     <Layout>
-      <SEO title="Redirect to Netlify" />
+      <SEO title="Redirect to Vercel" />
       <Container>
         <h3>Redirecting back to app</h3>
 

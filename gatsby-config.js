@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Vercelly`,
-    description: `Vercelly: Manage your Netlify sites on the go. An app designed and built for iOS and Android by Perttu Lähteenlahti`,
+    description: `Vercelly: Manage your Vercel projects and deployments on the go. An app designed and built for iOS and Android by Perttu Lähteenlahti`,
     author: `@plahteenlahti`,
   },
   plugins: [
