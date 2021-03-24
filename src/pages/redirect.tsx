@@ -20,7 +20,7 @@ const Redirect: FC<PageProps> = ({ location }) => {
 
         <p>
           If this screen does not go away. try clicking{" "}
-          <a href={`deploy://redirect?code${code}&state=${state}`}>
+          <a href={`vercelly://redirect?code${code}&state=${state}`}>
             this link to redirect back to app
           </a>
           . If that does not work you might need to wait few hours for your

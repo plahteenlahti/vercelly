@@ -49,8 +49,8 @@ module.exports = {
           {
             platform: "play",
             url:
-              "https://play.google.com/store/apps/details?id=deploy.nyxo.app",
-            id: "deploy.nyxo.app",
+              "https://play.google.com/store/apps/details?id=app.nyxo.vercelly",
+            id: "app.nyxo.vercelly",
           },
         ],
       },
