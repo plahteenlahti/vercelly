@@ -11,8 +11,8 @@ const PrivacyPolicy = () => {
         <h1>Privacy Policy for Vercelly</h1>
 
         <p>
-          At Vercelly, accessible from netli.fyi, one of our main priorities is
-          the privacy of our visitors. This Privacy Policy document contains
+          At Vercelly, accessible from vercelly.com one of our main priorities
+          is the privacy of our visitors. This Privacy Policy document contains
           types of information that is collected and recorded by Vercelly and
           how we use it.
         </p>
@@ -111,8 +111,8 @@ const PrivacyPolicy = () => {
         </p>
 
         <p>
-          Note that Vercelly has no access to or control over these cookies
-          that are used by third-party advertisers.
+          Note that Vercelly has no access to or control over these cookies that
+          are used by third-party advertisers.
         </p>
 
         <h2>Third Party Privacy Policies</h2>

@@ -57,7 +57,7 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           property: `og:image`,
-          content: `https://netli.fyi${card.childImageSharp.fixed.src}`,
+          content: `https://vercelly.com${card.childImageSharp.fixed.src}`,
         },
         {
           property: `og:type`,
@@ -77,7 +77,7 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           name: `twitter:image`,
-          content: `https://netli.fyi${card.childImageSharp.fixed.src}`,
+          content: `https://vercelly.com${card.childImageSharp.fixed.src}`,
         },
         {
           name: `twitter:description`,
